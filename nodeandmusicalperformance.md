@@ -8,19 +8,20 @@
 
 -------------------------------------------------
 
-
-
-
-
--> # Hasn't this music been amazing?
--> Ben Michel and Sam Snyder
+Rob Spectre says we're superheroes
 
 -------------------------------------------------
 
+Sometimes superheroes have fun and do stupid shit.
 
+-------------------------------------------------
+
+This is the stupid shit.
+
+-------------------------------------------------
 
 ## Who are Hugh?
-* BSc Music Computing Graduate, Goldsmiths, University of London
+* MSci Creative Computing Student, Goldsmiths, University of London
 * Co-organiser of London Music Hack Day 2014, 2015
 * Developer of Web Audio API-related tools
 * Music Hacker
